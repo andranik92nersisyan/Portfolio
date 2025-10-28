@@ -51,6 +51,9 @@ const Banners = () => {
               ></button>
             </p>
           </div>
+          <div className="modal-image-description">
+            <p>Description of the image</p>
+          </div>
         </div>
       )}
     </div>
