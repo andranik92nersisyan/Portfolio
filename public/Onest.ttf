@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Onest";
+  src: url("./fonts/Onest.ttf") format("truetype"); /* ճիշտ ուղին դեպի ֆոնտը */
+  font-weight: normal;
+  font-style: normal;
+}
